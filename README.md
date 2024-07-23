@@ -1,3 +1,3 @@
 ### API-testing-project
 ### Introduction
-this repository contains python code for testing the API using Pytest framework
+This repository contains the API testing project using Python and Pytest framework for writing and running tests
