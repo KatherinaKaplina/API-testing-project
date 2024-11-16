@@ -1,7 +1,7 @@
 import requests
 import allure
 from requests.exceptions import JSONDecodeError
-from test_api_final_kkaplina.endpoints.endpoint import Endpoint
+from endpoints.endpoint import Endpoint
 
 
 class CreateMeme(Endpoint):

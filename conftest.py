@@ -1,11 +1,11 @@
 import pytest
-# from test_api_final_kkaplina.endpoints.endpoint import Endpoint
-from test_api_final_kkaplina.endpoints.create_meme import CreateMeme
-from test_api_final_kkaplina.endpoints.update_meme import UpdateMeme
-from test_api_final_kkaplina.endpoints.get_meme import GetMeme
-from test_api_final_kkaplina.endpoints.get_all_memes import GetAllMemes
-from test_api_final_kkaplina.endpoints.delete_meme import DeleteMeme
-from test_api_final_kkaplina.endpoints.authorization import Authorization
+# from endpoints.endpoint import Endpoint
+from endpoints.create_meme import CreateMeme
+from endpoints.update_meme import UpdateMeme
+from endpoints.get_meme import GetMeme
+from endpoints.get_all_memes import GetAllMemes
+from endpoints.delete_meme import DeleteMeme
+from endpoints.authorization import Authorization
 
 
 @pytest.fixture(scope='session')

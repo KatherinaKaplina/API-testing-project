@@ -1,6 +1,6 @@
 import requests
 import allure
-from test_api_final_kkaplina.endpoints.endpoint import Endpoint
+from endpoints.endpoint import Endpoint
 
 
 class DeleteMeme(Endpoint):

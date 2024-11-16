@@ -1,4 +1,4 @@
-from test_api_final_kkaplina.endpoints.endpoint import Endpoint
+from endpoints.endpoint import Endpoint
 from requests.exceptions import JSONDecodeError
 import requests
 import allure
