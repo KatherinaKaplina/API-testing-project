@@ -1,5 +1,5 @@
 invalid_token = 'qqq6oJ0R6oDqyyq'
-another_user_token = 'olX6oJ0R6oDQ0La'
+another_user_token = '2J6JAbu6F4lhomZ'
 
 TEST_DATA_CREATE = [
     {
